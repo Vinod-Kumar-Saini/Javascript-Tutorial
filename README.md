@@ -1,5 +1,6 @@
 # Javascript-Tutorial
 
+
 🏷️ 1_Variable
    
    Link your external javascript file using <script src="file_name.js"></script> tag within body tag of your html file.
@@ -14,5 +15,6 @@
  ➡️Variable names are case-sensitive.
  ➡️Reserved words in JavaScript should not be used to declare variables.
  ➡️We use snake_case (lowercase letters separated by underscores) for naming variables.
+
 
 
