@@ -1,2 +1,2 @@
 # Javascript-Tutorial
-Javascript for begineers
+Javascript for beginners
