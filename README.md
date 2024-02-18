@@ -1,5 +1,6 @@
 # Javascript-Tutorial
 
+
 🏷️ 1_Variable
    
    Link your external javascript file using <script src="file_name.js"></script> tag within body tag of your html file.
