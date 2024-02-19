@@ -32,3 +32,5 @@ console.log(typeof(age));
 
 var city= +"Jaipur";
 console.log(typeof(city));
+
+////
