@@ -37,3 +37,25 @@
 
 ✅Switch statements are use with cases and break
 
+
+
+
+🏷️Day_3
+
+✅forEach
+➡️The forEach method in JavaScript is a built-in method of arrays that allows you to iterate over each element in the array. 
+
+➡️It takes a callback function as a parameter, which will be executed for each element in the array. 
+
+➡️The callback function itself can take up to three parameters: 
+the current element, the index of the current element, and the array itself.
+
+
+✅Map
+➡️In this example, the map() method is called on the numbers array, and a callback function is passed as an argument. 
+
+➡️The callback function takes a single argument, number, and returns its square.
+
+ ➡️The map() method returns a new array, squares, with the transformed elements. 
+
+ ➡️The original numbers array remains unchanged.

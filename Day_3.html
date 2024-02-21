@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        var numbers =[1,2,3,4,5];
+        numbers.forEach(function (value) {
+            document.write(value*2 +" ")
+        
+        });
+    </script>
+
+    
+
+<!-- The forEach method in JavaScript is a built-in method of arrays that allows you to iterate over each element in the array. 
+It takes a callback function as a parameter, which will be executed for each element in the array. 
+The callback function itself can take up to three parameters: 
+the current element, the index of the current element, and the array itself. -->
+
+<!-- .....................................................................................  -->
+
+<!-- below example of map which will run on console. -->
+
+<!-- <script>
+var arr = [11, 4, 9, 16];
+var b = arr.map(function(value) {
+  return value * 2;
+});
+
+console.log('arr = ', arr);
+console.log('b = ', b);
+
+
+</script> -->
+
+
+In this example, the map() method is called on the numbers array, and a callback function is passed as an argument. 
+The callback function takes a single argument, number, and returns its square.
+ The map() method returns a new array, squares, with the transformed elements. 
+ The original numbers array remains unchanged.
+
+</body>
+</html>
